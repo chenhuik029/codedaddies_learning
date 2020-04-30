@@ -1,1 +1,1 @@
-web: gunicorn test_app.wsgi
+web: gunicorn codedaddies.wsgi
